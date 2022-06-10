@@ -4,16 +4,16 @@
 
 * *git init* - команда, инициализирующая репозиторий;
 
- * *git add* - добавляет изменения в выбрвный файл
+ * *git add* - добавляет изменения в выбрвный файл;
 
- * *git commit -m* - 
+ * *git commit -m* - команда фиксирующая состояние фала; 
 
- * *git checkout name branch* - 
+ * *git checkout name branch* - команда, переключающая между ветками;
 
- * *git merge name branch* - 
+ * *git merge name branch* - команда, осуществляющая слияние веток;
 
- * git log graph name branch* - 
+ * git log --graph * - команда, для наглядности создания комитов, слияния веток;
 
- * *git branch -d name branch* - 
+ * *git branch -d name branch* - команда, удаляющая ветку;
 
- * *git log* - команда отображающая логи комитов
+ * *git log* - команда отображающая логи комитов;
