@@ -12,7 +12,7 @@
 
  * *git merge name branch* - 
 
- * git log graph name branch* - 
+ * git log --graph * - 
 
  * *git branch -d name branch* - 
 
