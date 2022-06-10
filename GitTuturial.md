@@ -15,3 +15,5 @@
  * git log graph name branch* - 
 
  * *git branch -d name branch* - 
+
+ * *git log* - команда отображающая логи комитов
